@@ -2,8 +2,8 @@
 title: ABCDE Logging and tracing in SAP Mobile Services for development and operations testgreen21
 description: Logging and tracing overview in the SAP Mobile Services for development and operations Administration Cockpit.
 auto_validation: true
-primary_tag: products>ios-sdk-for-sap-btp
-tags: [  tutorial>beginner, topic>mobile, operating-system>ios, products>sap-business-technology-platform, products>sap-mobile-services ]
+primary_tag: products>sap-mobile-services
+tags: [  tutorial>beginner, topic>mobile, products>sap-business-technology-platform ]
 ---
 ## Prerequisites  
 

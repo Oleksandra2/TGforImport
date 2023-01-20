@@ -2,8 +2,8 @@
 title: ABCDE Application logging and tracing testgreen20
 description: Logging and tracing using the SAP BTP SDK for iOS.
 auto_validation: true
-primary_tag: products>ios-sdk-for-sap-btp
-tags: [  tutorial>beginner, topic>mobile, operating-system>ios, products>sap-business-technology-platform, products>sap-mobile-services ]
+primary_tag: products>sap-mobile-services
+tags: [  tutorial>beginner, topic>mobile, products>sap-business-technology-platform ]
 ---
 ## Prerequisites  
 
