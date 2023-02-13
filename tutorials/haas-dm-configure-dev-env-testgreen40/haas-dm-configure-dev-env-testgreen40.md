@@ -2,8 +2,6 @@
 title: ABCDE Configure the SAP Web IDE Development Environment for SAP HANA service for SAP BTP testgreen40
 description: Configure SAP Web IDE for Full Stack, which you will use to create a multi-target application based on the SAP Cloud Application Programming Model.
 auto_validation: true
-author_name: Thomas Jung
-author_profile: https://github.com/jung-thomas
 time: 15
 tags: [tutorial>beginner, products>sap-hana, products>sap-cloud-platform\,-sap-hana-service, tutorial>license]
 primary_tag: products>sap-hana
