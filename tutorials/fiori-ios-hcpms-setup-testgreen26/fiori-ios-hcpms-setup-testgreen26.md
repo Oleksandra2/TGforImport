@@ -5,8 +5,6 @@ auto_validation: true
 primary_tag: products>sap-hana-dynamic-tiering
 tags: [tutorial>beginner, products>sap-hana, products>sap-hana-dynamic-tiering, products>sap-hana-studio, topic>big-data, topic>sql ]
 time: 5
-author_name: Jitendra Kansal
-author_profile: https://github.com/jitendrakansal
 ---
 ## Prerequisites  
 - You have [Set Up a BTP Account for Tutorials](group.btp-setup). Follow the instructions to get an account, and then to set up entitlements and service instances for the following BTP services.
