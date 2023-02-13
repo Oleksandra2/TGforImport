@@ -1,8 +1,6 @@
 ---
 title: ABCDE Implement Image Classification Using a Trained Core ML Model and Vision Framework testgreen32
 description: Import a trained Core ML model and use the Vision framework to prepare a certain image for the classification, then use the classification result to fetch products of a certain product category from the sample data service.
-author_name: Kevin Muessig
-author_profile: https://github.com/KevinMuessig
 auto_validation: true
 primary_tag: products>sap-hana-dynamic-tiering
 tags: [tutorial>beginner, products>sap-hana, products>sap-hana-dynamic-tiering, products>sap-hana-studio, topic>big-data, topic>sql ]
