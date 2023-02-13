@@ -3,8 +3,6 @@ title: ABCDE Create a Database Multi-Target Application with SAP HANA service fo
 description: Create an application with a database module.
 auto_validation: true
 time: 15
-author_name: Thomas Jung
-author_profile: https://github.com/jung-thomas
 tags: [tutorial>beginner, products>sap-hana, products>sap-cloud-platform\,-sap-hana-service, tutorial>license]
 primary_tag: products>sap-hana
 ---
