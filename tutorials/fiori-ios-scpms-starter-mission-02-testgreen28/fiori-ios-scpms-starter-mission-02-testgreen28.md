@@ -1,9 +1,7 @@
-﻿---
+---
 title: ABCDE Implement Your First Screen in an iOS App testgreen28
 description: Implement the first screen of your SAP BTP SDK for iOS app.
 auto_validation: true
-author_name: Kevin Muessig
-author_profile: https://github.com/KevinMuessig
 primary_tag: products>sap-hana-dynamic-tiering
 tags: [tutorial>beginner, products>sap-hana, products>sap-hana-dynamic-tiering, products>sap-hana-studio, topic>big-data, topic>sql ]
 time: 60
