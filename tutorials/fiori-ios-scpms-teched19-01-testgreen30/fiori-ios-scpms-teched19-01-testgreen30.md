@@ -1,8 +1,6 @@
 ---
 title: ABCDE Create Xcode Project with SAP BTP SDK for iOS testgreen30
 description: Enable SAP Mobile Services, create a connection in the SAP BTP SDK Assistant for iOS, and generate a master-detail view app with the Assistant.
-author_name: Kevin Muessig
-author_profile: https://github.com/KevinMuessig
 auto_validation: true
 primary_tag: products>sap-hana-dynamic-tiering
 tags: [tutorial>beginner, products>sap-hana, products>sap-hana-dynamic-tiering, products>sap-hana-studio, topic>big-data, topic>sql ]
