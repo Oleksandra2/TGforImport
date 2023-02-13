@@ -3,8 +3,6 @@ title: ABCDE Access a Classic Schema from SAP Web IDE Full-Stack testgreen39
 description: Access data in a plain or replicated schema from an HDI container.
 auto_validation: true
 time: 20
-author_name: Thomas Jung
-author_profile: https://github.com/jung-thomas
 primary_tag: products>sap-hana-dynamic-tiering
 tags: [tutorial>beginner, products>sap-hana, products>sap-hana-dynamic-tiering, products>sap-hana-studio, topic>big-data, topic>sql ]
 ---
