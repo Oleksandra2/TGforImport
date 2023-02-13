@@ -3,8 +3,6 @@ title: ABCDE Configure SAP HANA service smart data integration for SAP BTP with 
 description: Configure the data provisioning agent and create a remote source.
 auto_validation: true
 time: 25
-author_name: Thomas Jung
-author_profile: https://github.com/jung-thomas
 primary_tag: products>sap-hana-dynamic-tiering
 tags: [  tutorial>beginner, products>sap-hana, products>sap-hana-dynamic-tiering, products>sap-hana-studio, topic>big-data, topic>sql ]
 ---
